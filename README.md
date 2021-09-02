@@ -1,6 +1,7 @@
 
 ## vim --version
 
+> 
 VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 01 2021 08:32:44)
 macOS version - x86_64
 包含补丁: 1-2681
