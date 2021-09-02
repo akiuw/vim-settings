@@ -77,15 +77,22 @@ macOS version - x86_64
 
 -farsi             +mouse_sgr         +tag_binary        
 
-     系统 vimrc 文件: "$VIM/vimrc"
-     用户 vimrc 文件: "$HOME/.vimrc"
+系统 vimrc 文件: "$VIM/vimrc"
+
+用户 vimrc 文件: "$HOME/.vimrc"
      
- 第二用户 vimrc 文件: "~/.vim/vimrc"
-      用户 exrc 文件: "$HOME/.exrc"
-    系统 gvimrc 文件: "$VIM/gvimrc"
-    用户 gvimrc 文件: "$HOME/.gvimrc"
+第二用户 vimrc 文件: "~/.vim/vimrc"
+
+用户 exrc 文件: "$HOME/.exrc"
+
+系统 gvimrc 文件: "$VIM/gvimrc"
+ 
+用户 gvimrc 文件: "$HOME/.gvimrc"
     
 第二用户 gvimrc 文件: "~/.vim/gvimrc"
-       defaults file: "$VIMRUNTIME/defaults.vim"
-        系统菜单文件: "$VIMRUNTIME/menu.vim"
-         $VIM 预设值: "/Applications/MacVim.app/Contents/Resources/vim"
+
+defaults file: "$VIMRUNTIME/defaults.vim"
+
+系统菜单文件: "$VIMRUNTIME/menu.vim"
+
+$VIM 预设值: "/Applications/MacVim.app/Contents/Resources/vim"
