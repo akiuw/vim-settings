@@ -1,12 +1,16 @@
 
-## vim --version
+# vim --version
 
-> 
 VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 01 2021 08:32:44)
+
 macOS version - x86_64
+
 包含补丁: 1-2681
+
 编译者 Homebrew
+
 巨型版本 带 MacVim 图形界面。  可使用(+)与不可使用(-)的功能:
+
 +acl               +file_in_path      -mouse_sysmouse    -tag_old_static
 +arabic            +find_in_path      +mouse_urxvt       -tag_any_white
 +autocmd           +float             +mouse_xterm       +tcl
@@ -40,12 +44,15 @@ macOS version - x86_64
 +ex_extra          -mouse_jsbterm     -sun_workshop      -xterm_clipboard
 +extra_search      +mouse_netterm     +syntax            -xterm_save
 -farsi             +mouse_sgr         +tag_binary        
+
      系统 vimrc 文件: "$VIM/vimrc"
      用户 vimrc 文件: "$HOME/.vimrc"
+     
  第二用户 vimrc 文件: "~/.vim/vimrc"
       用户 exrc 文件: "$HOME/.exrc"
     系统 gvimrc 文件: "$VIM/gvimrc"
     用户 gvimrc 文件: "$HOME/.gvimrc"
+    
 第二用户 gvimrc 文件: "~/.vim/gvimrc"
        defaults file: "$VIMRUNTIME/defaults.vim"
         系统菜单文件: "$VIMRUNTIME/menu.vim"
