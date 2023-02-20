@@ -1,6 +1,9 @@
 
 # vim --version
 
+vim config
+./configure --with-features=huge --enable-fontset --enable-cscope --enable-multibyte --enable-pythoninterp --with-python-config-dir=/usr/lib64/python2.7/config --enable-python3interp --with-python3-config-dir=/usr/lib64/python3.6/config --enable-luainterp --enable-multibyte --prefix=/usr/local/vim --with-compiledby="asuhi"
+
 VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 01 2021 08:32:44)
 
 macOS version - x86_64
